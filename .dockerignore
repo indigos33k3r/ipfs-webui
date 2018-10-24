@@ -1,0 +1,8 @@
+.editorconfig
+.travis.yml
+cors-config.sh
+Makefile
+README.md
+ci
+docs
+node_modules
